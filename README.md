@@ -30,7 +30,8 @@ Use at your own risk. Always back up your saves before enabling cheats. **I take
 
 ## Available trainers
 
-<!-- TRAINER_TABLE -->
+| Game | Game Version | Trainer | Download |
+|------|--------------|---------|----------|
 
 ## Verifying release authenticity
 
