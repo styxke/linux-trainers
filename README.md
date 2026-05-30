@@ -32,6 +32,9 @@ Use at your own risk. Always back up your saves before enabling cheats. **I take
 
 | Game | Game Version | Trainer | Download |
 |------|--------------|---------|----------|
+| Cyberpunk 2077 | 2.31 | 0.17.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/cyberpunk_2077/Trainer-cyberpunk_2077-2.31-0.17.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/cyberpunk_2077/Trainer-cyberpunk_2077-2.31-0.17.0-x86_64.AppImage.asc) |
+| Dead Space | latest | 0.6.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/deadspace/Trainer-deadspace-latest-0.6.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/deadspace/Trainer-deadspace-latest-0.6.0-x86_64.AppImage.asc) |
+| Octopath Traveler 2 | latest | 0.3.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/ot2/Trainer-ot2-latest-0.3.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/ot2/Trainer-ot2-latest-0.3.0-x86_64.AppImage.asc) |
 
 ## Verifying release authenticity
 
@@ -56,8 +59,8 @@ gpg --keyserver keys.openpgp.org --recv-keys BFA346755C5823305050A68C6F49E5C6D7C
 **Verify a downloaded AppImage** (example — use the file you actually downloaded):
 
 ```bash
-gpg --verify "Trainer-ot2(latest)-0.3.0-x86_64.AppImage.asc" \
-            "Trainer-ot2(latest)-0.3.0-x86_64.AppImage"
+gpg --verify Trainer-ot2-latest-0.3.0-x86_64.AppImage.asc \
+            Trainer-ot2-latest-0.3.0-x86_64.AppImage
 ```
 
 Expected output:
