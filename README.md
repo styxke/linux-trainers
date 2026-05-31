@@ -36,6 +36,7 @@ Use at your own risk. Always back up your saves before enabling cheats. **I take
 | Dead Space | latest | 0.6.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/deadspace/Trainer-deadspace-latest-0.6.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/deadspace/Trainer-deadspace-latest-0.6.0-x86_64.AppImage.asc) |
 | DOOM (2016) | Vulkan-OpenGL | 0.3.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/doom2016/Trainer-doom2016-Vulkan-OpenGL-0.3.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/doom2016/Trainer-doom2016-Vulkan-OpenGL-0.3.0-x86_64.AppImage.asc) |
 | DOOM Eternal | Vulkan | 0.3.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/doom_eternal/Trainer-doom_eternal-Vulkan-0.3.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/doom_eternal/Trainer-doom_eternal-Vulkan-0.3.0-x86_64.AppImage.asc) |
+| DOOM: The Dark Ages | Steam | 0.5.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/doom_dark_ages/Trainer-doom_dark_ages-Steam-0.5.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/doom_dark_ages/Trainer-doom_dark_ages-Steam-0.5.0-x86_64.AppImage.asc) |
 | Dragon Age: The Veilguard | latest | 0.14.2 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/dragon_age_veilguard/Trainer-dragon_age_veilguard-latest-0.14.2-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/dragon_age_veilguard/Trainer-dragon_age_veilguard-latest-0.14.2-x86_64.AppImage.asc) |
 | Octopath Traveler 2 | latest | 0.3.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/ot2/Trainer-ot2-latest-0.3.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/ot2/Trainer-ot2-latest-0.3.0-x86_64.AppImage.asc) |
 | Starfield | 1.16.242 | 0.14.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/starfield/Trainer-starfield-1.16.242-0.14.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/starfield/Trainer-starfield-1.16.242-0.14.0-x86_64.AppImage.asc) |
@@ -55,11 +56,7 @@ BFA3 4675 5C58 2330 5050  A68C 6F49 E5C6 D7C3 14C8
 **Import the public key** (one time):
 
 ```bash
-# Option A — from this repo
 curl -L https://raw.githubusercontent.com/styxke/linux-trainers/main/keys/trainer-pubkey.asc | gpg --import
-
-# Option B — from a keyserver
-gpg --keyserver keys.openpgp.org --recv-keys BFA346755C5823305050A68C6F49E5C6D7C314C8
 ```
 
 **Verify a downloaded AppImage** (example — use the file you actually downloaded):
