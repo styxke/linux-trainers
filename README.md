@@ -30,6 +30,8 @@ Use at your own risk. Always back up your saves before enabling cheats. **I take
 
 ## Available trainers
 
+All trainers are tested on the **Steam** version of the game unless the entry below explicitly states otherwise.
+
 | Game | Game Version | Trainer | Download |
 |------|--------------|---------|----------|
 | Black Mesa | 19042901 | 0.2.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/blackmesa/Trainer-blackmesa-19042901-0.2.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/blackmesa/Trainer-blackmesa-19042901-0.2.0-x86_64.AppImage.asc) |
@@ -46,6 +48,7 @@ Use at your own risk. Always back up your saves before enabling cheats. **I take
 | Mass Effect: Andromeda | 10351505 | 0.9.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/meandromeda/Trainer-meandromeda-10351505-0.9.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/meandromeda/Trainer-meandromeda-10351505-0.9.0-x86_64.AppImage.asc) |
 | No Rest for the Wicked | Steam.build.29466.Early.Access. | 0.10.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/nrftw/Trainer-nrftw-Steam.build.29466.Early.Access.-0.10.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/nrftw/Trainer-nrftw-Steam.build.29466.Early.Access.-0.10.0-x86_64.AppImage.asc) |
 | Octopath Traveler 2 | latest | 0.3.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/ot2/Trainer-ot2-latest-0.3.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/ot2/Trainer-ot2-latest-0.3.0-x86_64.AppImage.asc) |
+| Persona 5 Royal | latest | 0.3.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/p5r/Trainer-p5r-latest-0.3.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/p5r/Trainer-p5r-latest-0.3.0-x86_64.AppImage.asc) |
 | STAR WARS Jedi: Survivor | latest | 0.8.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/swjs/Trainer-swjs-latest-0.8.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/swjs/Trainer-swjs-latest-0.8.0-x86_64.AppImage.asc) |
 | Starfield | 1.16.242 | 0.14.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/starfield/Trainer-starfield-1.16.242-0.14.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/starfield/Trainer-starfield-1.16.242-0.14.0-x86_64.AppImage.asc) |
 | Subnautica 2 | 0.10.3-115506 | 0.14.3 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/subnautica_2/Trainer-subnautica_2-0.10.3-115506-0.14.3-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/subnautica_2/Trainer-subnautica_2-0.10.3-115506-0.14.3-x86_64.AppImage.asc) |
