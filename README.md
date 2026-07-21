@@ -34,6 +34,7 @@ All trainers are tested on the **Steam** version of the game unless the entry be
 
 | Game | Game Version | Trainer | Download |
 |------|--------------|---------|----------|
+| Assassin's Creed Odyssey | buildid-17083392 | 0.19.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/acodyssey/Trainer-acodyssey-buildid-17083392-0.19.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/acodyssey/Trainer-acodyssey-buildid-17083392-0.19.0-x86_64.AppImage.asc) |
 | Assassin's Creed Origins | buildid-16965472 | 0.8.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/acorigins/Trainer-acorigins-buildid-16965472-0.8.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/acorigins/Trainer-acorigins-buildid-16965472-0.8.0-x86_64.AppImage.asc) |
 | Atomic Heart | Steam | 0.1.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/atomicheart/Trainer-atomicheart-Steam-0.1.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/atomicheart/Trainer-atomicheart-Steam-0.1.0-x86_64.AppImage.asc) |
 | Black Mesa | 19042901 | 0.2.0 | [AppImage](https://github.com/styxke/linux-trainers/releases/download/game/blackmesa/Trainer-blackmesa-19042901-0.2.0-x86_64.AppImage) · [signature](https://github.com/styxke/linux-trainers/releases/download/game/blackmesa/Trainer-blackmesa-19042901-0.2.0-x86_64.AppImage.asc) |
